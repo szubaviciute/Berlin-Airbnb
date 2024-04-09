@@ -202,10 +202,3 @@ FROM Portfolio..listings_berlin;
 SELECT *
 FROM Portfolio..listings_berlin;
 
--- Alternative 
-
---SELECT CASE
---    WHEN host_country_trimmed = '' THEN 'Not provided' 
---	ELSE host_country_trimmed END AS host_country_trimmed
---FROM Portfolio..listings_berlin;
-
