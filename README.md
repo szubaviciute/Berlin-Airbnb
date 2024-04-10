@@ -4,6 +4,8 @@
 
 This data analysis project aims to provide insights into the Airbnb house listings in Berlin for one night stay. By analyzing various aspects of the listings I aimed to identify trends and gain a deeper understanding of the Berlin Airbnb status and how it might be affected by neighbourhood group, room type, bathroom number and other 
 
+![Dashboard 1](https://github.com/szubaviciute/Berlin-Airbnb/assets/159541216/e6612464-9a6b-4a41-b8e4-1b5fc2cf1ffd)
+
 ### Data sources
 
 The primary dataset used for this analysis is the "listings.csv" file, containing detailed information about each listing in Berlin. The data were scraped from officials of Airbnb (https://insideairbnb.com/get-the-data)
