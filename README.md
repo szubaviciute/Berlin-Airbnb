@@ -10,8 +10,8 @@ The primary dataset used for this analysis is the "listings.csv" file, containin
 
 ### Tools
 
-MS SQL - Data Cleaning, analysis 
-Tableau Public - Visualization
+- MS SQL - Data Cleaning, analysis 
+- Tableau Public - Visualization
 
 ### Data Cleaning/Preparation
 
